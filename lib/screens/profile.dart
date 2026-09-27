@@ -54,7 +54,7 @@ class _ProfilePageState extends State<ProfilePage> {
               child: Column(
                 children: [
                   Image.asset(
-                    'assets/images/profile_photo.jpg',
+                    'assets/images/profile_photo.png',
                     width: double.infinity,
                     height: 200,
                     fit: BoxFit.cover,
